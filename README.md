@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rizkyamienf
+- 👋 Hi, I’m Rizky Amien Fauzi
 - 👀 I’m interested in Backend & Software Testing
 - 🌱 I’m currently learning Java
 <!---
